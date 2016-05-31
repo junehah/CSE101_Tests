@@ -7,3 +7,4 @@ If wished to use with the timberlake submissions, simply omit the createFolders(
 Main notes to make:
 1) runs on python 2.7 (reason being is usually 101 utilizes Python 2.7)
 2) Make sure to change the directory paths set.  Currently set to the author's directory path.
+3) changing the function imports from solution

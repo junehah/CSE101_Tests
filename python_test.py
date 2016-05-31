@@ -7,6 +7,7 @@ import os, sys, shutil, imp
 from subprocess import check_call
 
 #--solutions
+#--modify to user's needs.  (currently set to a particular class.  MUST CHANGE)
 from solutions.conversion_test import conversion
 from solutions.sum_test import summation
 from solutions.prime_test import prime
